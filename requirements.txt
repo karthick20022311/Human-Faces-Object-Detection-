@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+mtcnn
+plotly
+pandas
+numpy
+scikit-learn
